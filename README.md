@@ -8,16 +8,20 @@ This is a simple **Weather App** built using **Python** that fetches real-time w
 - Displays temperature, weather conditions, humidity, and wind speed
 - User-friendly interface with city-based search
 
-## 🔧 Setup Instructions
+## Installation  
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/SatyaBonthala/weatherapp.git
-cd weatherapp
-
-### 2️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/SatyaBonthala/WeatherDetector.git  
+   ```  
+2. Navigate to the project directory:  
+   ```bash  
+   cd WeatherDetector  
+   ```  
+3. Run the script:  
+   ```bash  
+   python WeatherDetector.py  
+   ```  
 
 
 ## 🛠 Requirements
@@ -26,4 +30,8 @@ pip install -r requirements.txt
 
 ## 📜 License
 This project is open-source and available under the MIT License.
+
+## Author  
+
+Developed by [Satya Bonthala](https://github.com/SatyaBonthala).  
 
