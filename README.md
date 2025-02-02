@@ -11,11 +11,11 @@ This is a simple **Weather App** built using **Python** that fetches real-time w
 ## 🔧 Setup Instructions
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/weatherapp.git
+
+git clone https://github.com/SatyaBonthala/weatherapp.git
 cd weatherapp
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
 
