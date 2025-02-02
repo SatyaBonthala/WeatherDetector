@@ -8,7 +8,16 @@ This is a simple **Weather App** built using **Python** that fetches real-time w
 - Displays temperature, weather conditions, humidity, and wind speed
 - User-friendly interface with city-based search
 
-## 📂 Project Structure
+## 🔧 Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/weatherapp.git
+cd weatherapp
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
 
 ## 🛠 Requirements
 -Python 3.x
