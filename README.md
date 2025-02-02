@@ -10,3 +10,9 @@ This is a simple **Weather App** built using **Python** that fetches real-time w
 
 ## 📂 Project Structure
 
+🛠 Requirements
+Python 3.x
+requests module (install using pip install requests)
+📜 License
+This project is open-source and available under the MIT License.
+
